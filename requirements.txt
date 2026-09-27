@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+joblib
+streamlit
+flask
+matplotlib
+plotly
+scipy
+python-dateutil
+pyserial
